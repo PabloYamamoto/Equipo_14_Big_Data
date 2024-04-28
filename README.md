@@ -1,7 +1,9 @@
 # Equipo_14_Big_Data
 
-Integrantes 
+### Integrantes 
 
-Luis Fernando Rivera Albarrán 
-Alan Alberto Contreras Meléndez
-Pablo Yamamoto Magaña
+* Luis Fernando Rivera Albarrán 
+* Alan Alberto Contreras Meléndez
+* Pablo Yamamoto Magaña
+
+
